@@ -1,0 +1,92 @@
+  body{
+    background: yellow ;
+  }
+  .boton:hover{
+    font-family: cursive;
+    font-style: verdana;
+    font-weight: bold;
+  }
+  .boton{
+    border-color: yellow;
+    background-color: red;
+    padding:  20px 55px 20px 55px;
+    font-size: 40px;
+    font-family: comic;
+    font-weight: bold;
+  }
+/* CASILLERO X ó O */
+  td{
+
+  height:  50px;
+  width:   50px;
+  background-color: #27b232;
+
+
+}
+  td:hover{
+    background-color: #6999b5;
+  }
+  /*MARCO */
+  .table{
+      border-style: solid;
+      border-color: #b5b598;
+      border-width: 2px;
+      text-align: center;
+      background-color: #c8d14f;
+  }
+  /*BORDE */
+  .square{
+      border-radius: 10px;
+      padding: 20px;
+  }
+  /*CASILLERO */
+  .box {
+      border-style: none;
+
+      border-width: 2px;
+      text-align: center;
+    }
+    h1:hover{
+      color: brown;
+      font-family: monospace;
+      font-size: 60px
+    }
+    /* title */
+    h1{
+      color: #576d59;
+      font-size: 40px;
+    }
+    /*letters */
+    #message{
+      color:#84846b;
+      font-size: 30px;
+      font-family: fantasy;
+    }
+    #t1{
+      color:brown;
+      font-size: 50px;
+    }
+    #t2{
+      color:brown;
+      font-size: 50px;
+    }
+    #t3{
+      color:brown;
+      font-size: 50px;
+    }
+    #t4{color:brown;
+    font-size: 50px;}
+    #t5{
+      color:brown;
+      font-size: 50px;
+    }#t6{
+      color:brown;
+      font-size: 50px;
+    }#t7{
+      color:brown;
+      font-size: 50px;
+    }
+    #t8{color:brown;
+    font-size: 50px;}
+    #t9{color:brown;
+    font-size: 50px;}
